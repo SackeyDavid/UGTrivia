@@ -1,0 +1,34 @@
+This documentation is to be a user’s manual for our project. Though the structure of our documentation was entirely up to us, it is incredibly clear to the staff how and where, if applicable, to compile, configure, and use our project. Our documentation is at least several paragraphs in length. Hold our hand with this documentation; we're sure to answer in our documentation any questions that we think you might have while testing our work.
+
+App Name: UGTrivia
+App OS Requirement: JDK and JRE 1.8 or later
+IDE used: Netbean 8.1
+Software used: Launch4j for converting jar file to windows executable.
+Size: 3.27 MB
+
+
+
+How the app was designed:
+We scanned past questions and converted them to pdfs. We then developed an application to open the pdfs from a folder when button was clicked from the application. Initially we thought of using a database but we had problems embedding and calling from the database into the application. As such, we designed an interface for populating the database which we did not remove.
+
+How to use the app:
+We would like to get you informed about how to use this appication.
+
+It's so simple!
+
+
+1.Cut the folder inside the xip folder called "PASTQUO" and save it in your local disk (c: drive) or root directory so that in your local disk you have a folder called pastquo containing all the pdf past questions avialable to you. 
+
+2.You can place the Pro.exe file any where on your computer favourable to you like the desktop. When using the app;
+
+3.Always enter the course code with the letters immediately followed by the numbers eg.'cscd202','anim202','chem252'.
+
+4.Select 'exams' in the exam type option except for CSCD202 you can enter 'IA'
+
+5.Select only '2012' or '2015' in the exam year option.
+
+6.Altering the names of the pdfs in the pastquo folder can result in the application not working. 
+
+
+The pdfs available are for animal biology, biochemistry, chemistry, agriculture, food and consumer sciences, computer science and vertinary medicine.
+we have 16 pdfs with names VBAS 212EXAMS2012, VBAS 208EXAMS2012, VBAS 204EXAMS2012, FCOS 212EXAMS2012, FCOS 206EXAMS2012, CSCD202IA2015, CROP 202EXAMS2012, CHEM252EXAMS2015,ABCS 204EXAMS2015, AGEC 212EXAMS2015, AGRC 202EXAMS2012, ANIM 202EXAMS2015, BCMB 208EXAMS2012, BCHM 206EXAMS2015, BCMB 206EXAMS2015,and CSCD202IA2015.
